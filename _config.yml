@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Hacker Dad"
-  avatar : "/assets/images/logo.gif"
-  bio    : "Christian | Hustband | Father | Hacker | Gardener"
+  avatar : "/assets/images/Tree2.png"
+  bio    : "Christian + Hustband + Father + Hacker + Gardener"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
