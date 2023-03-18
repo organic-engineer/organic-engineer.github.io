@@ -19,13 +19,24 @@ I'm also using a high-quality seed starting mix that provides the necessary nutr
 
 Overall, I'm feeling pretty good about my seedling skills this year. I may even start a support group for other struggling seedling growers. But let's not get ahead of ourselves. One step at a time. Happy gardening, folks!
 
-[Insert images of seedlings]
+![Venn Diagram](/assets/images/venn.png)
+
+![Venn Diagram](/assets/images/2023-03-18-02-54-59-image.jpg)
+
+![Venn Diagram](/assets/images/2023-03-18-02-57-04-image.jpg)
+
+![Venn Diagram](/assets/images/2023-03-18-02-57-46-image.jpg)
+
+![Venn Diagram](/assets/images/2023-03-18-02-56-10-image.jpg)
+
+![Venn Diagram](/assets/images/2023-03-18-02-57-27-image.jpg)
+
 
 Seedling starting tips:
 
-1. Choosing the Right Light Spectrum: When it comes to grow lights, different types of plants have different light requirements. Plants like herbs and vegetables require more blue light, while those like flowering plants need more red light. Using the right spectrum of light can increase the efficiency of photosynthesis and lead to better plant growth.
-2. Ventilation and Airflow: Proper ventilation is crucial for maintaining a healthy environment for your seedlings. Not only does it prevent the buildup of harmful gases like carbon dioxide, but it also helps to control temperature and humidity. Fans can be used to create airflow, which can prevent mold growth and improve overall plant health.
-3. Moisture Control and Soil Health: Overwatering can lead to damping off, a fungal disease that can kill seedlings. One way to prevent this is by using bottom watering, which involves watering from the bottom of the container instead of the top. Using a well-draining soil mix can also help prevent waterlogging and promote healthy root growth.
-4. Temperature Regulation: Different types of plants have different temperature requirements for optimal growth. A seedling heat mat can be used to regulate the temperature and keep the soil warm. Additionally, using a thermometer can help you monitor the temperature and make any necessary adjustments.
-5. Nutrient Management: Seedlings need proper nutrients to grow healthy and strong. Using a high-quality seed starting mix can provide the necessary nutrients for seedling growth. Additionally, adding organic fertilizers or using a hydroponic system can help to boost plant growth.
+1. **Choosing the Right Light Spectrum**: When it comes to grow lights, different types of plants have different light requirements. Plants like herbs and vegetables require more blue light, while those like flowering plants need more red light. Using the right spectrum of light can increase the efficiency of photosynthesis and lead to better plant growth.
+2. **Ventilation and Airflow**: Proper ventilation is crucial for maintaining a healthy environment for your seedlings. Not only does it prevent the buildup of harmful gases like carbon dioxide, but it also helps to control temperature and humidity. Fans can be used to create airflow, which can prevent mold growth and improve overall plant health.
+3. **Moisture Control and Soil Health**: Overwatering can lead to damping off, a fungal disease that can kill seedlings. One way to prevent this is by using bottom watering, which involves watering from the bottom of the container instead of the top. Using a well-draining soil mix can also help prevent waterlogging and promote healthy root growth.
+4. **Temperature Regulation**: Different types of plants have different temperature requirements for optimal growth. A seedling heat mat can be used to regulate the temperature and keep the soil warm. Additionally, using a thermometer can help you monitor the temperature and make any necessary adjustments.
+5. **Nutrient Management**: Seedlings need proper nutrients to grow healthy and strong. Using a high-quality seed starting mix can provide the necessary nutrients for seedling growth. Additionally, adding organic fertilizers or using a hydroponic system can help to boost plant growth.
 
