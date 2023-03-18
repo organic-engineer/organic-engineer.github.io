@@ -19,7 +19,6 @@ I'm also using a high-quality seed starting mix that provides the necessary nutr
 
 Overall, I'm feeling pretty good about my seedling skills this year. I may even start a support group for other struggling seedling growers. But let's not get ahead of ourselves. One step at a time. Happy gardening, folks!
 
-![Venn Diagram](/assets/images/venn.png)
 
 ![Venn Diagram](/assets/images/2023-03-18-02-54-59-image.jpg)
 
